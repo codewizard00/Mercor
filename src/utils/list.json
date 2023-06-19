@@ -1,0 +1,80 @@
+{
+    "todo": [
+        {
+            "id": "1",
+            "priority": "Low",
+            "title": "Brainstorming",
+            "para": "Brainstorming brings team members' diverse experience into play.",
+            "image": "",
+            "files": "12",
+            "comments": "0"
+        },
+        {
+            "id": "2",
+            "priority": "High",
+            "title": "Research",
+            "para": "User research helps you to create an optimal product for users.",
+            "image": "",
+            "files": "10",
+            "comments": "3"
+        },
+        {
+            "id": "3",
+            "priority": "High",
+            "title": "Wireframes",
+            "para": "Low fidelity wireframes include the most basic content and visuals.",
+            "image": "",
+            "files": "12",
+            "comments": "13"
+        }
+    ],
+    "onProgress": [
+        {
+            "id": "4",
+            "priority": "Low",
+            "title": "Onboarding Illustrations",
+            "para": "",
+            "image": "https://mercor-project-saurav.vercel.app/assets/demo_1-6abf1080.jpg",
+            "files": "14",
+            "comments": "15"
+        },
+        {
+            "id": "5",
+            "priority": "Low",
+            "title": "Moodboard",
+            "para": "",
+            "image": "https://mercor-project-saurav.vercel.app/assets/demo_4-29fb84f6.jpg",
+            "files": "9",
+            "comments": "10"
+        },
+        {
+            "id": "6",
+            "priority": "High",
+            "title": "Onboarding Illustrations",
+            "para": "",
+            "image": "",
+            "files": "14",
+            "comments": "15"
+        }
+    ],
+    "done": [
+        {
+            "id": "7",
+            "priority": "Completed",
+            "title": "Mobile App Design",
+            "para": "",
+            "image": "https://mercor-project-saurav.vercel.app/assets/demo_2-dd64a57e.jpg",
+            "files": "12",
+            "comments": "15"
+        },
+        {
+            "id": "8",
+            "priority": "Completed",
+            "title": "Design System",
+            "para": "It just needs to adapt the UI from what you did before",
+            "image": "",
+            "files": "12",
+            "comments": "15"
+        }
+    ]
+}
